@@ -34,12 +34,15 @@ for x in range(5):
 while True:
     success, img = cap.read()
     img = cv2.flip(img, 1)
-    img = detector.findHands(img)
-    lmList, _ = detector.findPosition(img)
+    hands, img = detector.findHands(img)
 
-    if lmList:
-
-        l, _, _ = detector.findDistance(8, 12, img, draw=False)
+    if hands:
+        # Get the first hand
+        hand = hands[0]
+        lmList = hand["lmList"]
+        
+        # Get distance between index finger tip and middle finger tip
+        l, info, img = detector.findDistance(lmList[8], lmList[12], img)
         print(l)
         if l < 30:
             cursor = lmList[8]  # index finger tip landmark
