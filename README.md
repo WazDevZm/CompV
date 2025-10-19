@@ -211,46 +211,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **CVZone**: For advanced hand tracking utilities
 - **Educational Community**: For feedback and testing
 
-## 📞 Support
-
-### Getting Help
-- **Documentation**: Check this README and code comments
-- **Issues**: Report bugs on GitHub Issues
-- **Discussions**: Join our community discussions
-- **Email**: Contact us at support@educational-hand-tracking.com
-
-### Common Issues
-- **Camera not detected**: Check camera permissions and connections
-- **Low performance**: Ensure adequate lighting and hardware
-- **Gesture not recognized**: Adjust hand position and lighting
-- **Installation problems**: Verify Python version and dependencies
-
-## 📊 Performance Metrics
-
-### System Requirements
-- **Minimum**: 4GB RAM, Intel i3, 720p camera
-- **Recommended**: 8GB RAM, Intel i5, 1080p camera
-- **Optimal**: 16GB RAM, Intel i7, 4K camera
-
-### Performance Benchmarks
-- **Frame Rate**: 30+ FPS on recommended hardware
-- **Latency**: <50ms gesture recognition
-- **Accuracy**: 95%+ hand detection in good lighting
-- **Memory Usage**: <500MB typical usage
-
-## 🌐 Browser Compatibility
-
-### Supported Platforms
-- **Windows**: 10, 11 (64-bit)
-- **macOS**: 10.15+ (Intel and Apple Silicon)
-- **Linux**: Ubuntu 18.04+, CentOS 7+
-
-### Camera Compatibility
-- **USB Webcams**: Logitech, Microsoft, generic USB cameras
-- **Built-in Cameras**: Laptop and tablet integrated cameras
-- **Resolution**: 720p minimum, 1080p recommended
-
-## 🔒 Privacy & Security
 
 ### Data Handling
 - **Local Processing**: All data processed locally
@@ -263,42 +223,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Data Protection**: No data collection or storage
 - **Secure Code**: Open source for community review
 
-## 📈 Roadmap
-
-### Version 2.0 (Planned)
-- **Multi-language Support**
-- **Advanced Analytics**
-- **Mobile Compatibility**
-- **Cloud Integration**
-
-### Version 3.0 (Future)
-- **AR/VR Support**
-- **AI-Powered Learning**
-- **Collaborative Features**
-- **Advanced Accessibility**
-
-## 🏆 Awards & Recognition
-
-- **Educational Innovation Award 2024**
-- **Accessibility Excellence Recognition**
-- **Open Source Community Choice**
-- **Tech for Good Initiative**
-
-## 📚 Additional Resources
-
-### Learning Materials
-- **Tutorial Videos**: Step-by-step setup guides
-- **Educational Guides**: How to use in classrooms
-- **Teacher Resources**: Lesson plans and activities
-- **Parent Guides**: Home learning support
-
-### Technical Documentation
-- **API Reference**: Detailed function documentation
-- **Architecture Guide**: System design overview
-- **Performance Tuning**: Optimization recommendations
-- **Troubleshooting**: Common issues and solutions
-
----
 
 **Built with ❤️ for education and accessibility**
 
